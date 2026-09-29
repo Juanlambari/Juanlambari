@@ -1,4 +1,4 @@
-## Olá pessoa 👋
+### Olá Dev, Recrutador, ou Espião 👋
 
 ## Página Inicial
 Bem vindos, esse é meu portfólio no GitHub, para projetos pessoais e de estudo (seja faculdade ou cursos), espero que gostem!
