@@ -4,7 +4,7 @@
 
 Bem vindos, esse é meu portfólio no GitHub, para projetos pessoais e de estudo (seja faculdade ou cursos), espero que gostem!
 <p align="center">
-!(<img width="150" height="150" alt="goku_felizao" src="https://github.com/user-attachments/assets/abf2d9a6-acf1-4e7d-a8e4-042f6abbda2c" />
+<img width="150" height="150" alt="goku_felizao" src="https://github.com/user-attachments/assets/abf2d9a6-acf1-4e7d-a8e4-042f6abbda2c" />
 </p>
 
 ## Sobre Mim  <img width="30" height="30" alt="user-solid" src="https://github.com/user-attachments/assets/a980fb50-e840-49b7-81a2-ecda219f77b2" />
