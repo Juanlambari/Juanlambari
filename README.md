@@ -26,6 +26,10 @@ Cyber Segurança ou até Analista de Dados.
 - HTML, CSS
 - JavaScript (básico)
 - Pacote Office
+## Certificados
+<img width="350" height="250" alt="Certificado DSA Python" src="https://github.com/user-attachments/assets/ad98db6c-2148-4f88-bf08-78c9281d51ed" />
+
+
 ## Trabalhos / projetos <img width="30" height="30" alt="fire-solid" src="https://github.com/user-attachments/assets/39a20447-17db-45f4-91cd-02bda0b1a984" />
 
 ### Irá ser preenchido...
